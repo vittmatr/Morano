@@ -8,7 +8,8 @@ L'applicazione supporta la promozione turistica del borgo e la estende con servi
 
 ---
 
-![screen-app](https://github.com/user-attachments/assets/c75f0c44-ec84-4263-ab03-76eec6a75e07)
+![sceen_app](https://github.com/user-attachments/assets/56512f5b-d893-44b2-92a5-93d5da8b6269)
+
 
 
 
