@@ -13,7 +13,8 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
 
 ---
 
-![sceen_app](https://github.com/user-attachments/assets/56512f5b-d893-44b2-92a5-93d5da8b6269)
+![screenshot_app](https://github.com/user-attachments/assets/dceeef59-9e94-4eb8-9093-eda3daafea32)
+
 
 
 
