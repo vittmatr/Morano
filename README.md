@@ -11,7 +11,7 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
   <img src="https://github.com/user-attachments/assets/1d4f103f-220f-49a3-a497-651d8953856e" alt="slide 1" width="200" />
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.spin.morano&hl=it">
-    <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Download su Google Play"/>
+    <img src="https://github.com/user-attachments/assets/b085225b-2f92-4518-b3b7-e083c7701723" alt="Download su Google Play"/>
   </a>
   
 </div>
