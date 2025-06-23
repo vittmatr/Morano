@@ -13,6 +13,9 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
   <a href="https://play.google.com/store/apps/details?id=com.spin.morano&hl=it">
     <img src="https://github.com/user-attachments/assets/7802319e-95f9-4e89-a70b-c5d92a84eb26" alt="Download su Google Play"/>
   </a>
+  <br>
+  <img src="https://github.com/user-attachments/assets/80b064a2-84fb-4ee1-b3f3-e5c14f18394f" alt="Presto su App Store"/>
+
   
 </div>
 
