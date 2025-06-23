@@ -9,11 +9,17 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
 È poi presente un ChatBot in grado di supportare attivamente l'utente nelle sue necessità.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1d4f103f-220f-49a3-a497-651d8953856e" alt="slide 1" width="200" />
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.spin.morano&hl=it">
+    <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Download su Google Play"/>
+  </a>
+  
 </div>
 
 ---
 
-![screenshot_app](https://github.com/user-attachments/assets/dceeef59-9e94-4eb8-9093-eda3daafea32)
+![presentazione app](https://github.com/user-attachments/assets/c76ca138-920e-41ca-91fd-cfc0cdf5f410)
+
 
 
 
