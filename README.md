@@ -9,9 +9,9 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
 È poi presente un ChatBot in grado di supportare attivamente l'utente nelle sue necessità.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1d4f103f-220f-49a3-a497-651d8953856e" alt="slide 1" width="200" />
-  <br>
+  <br><br>
   <a href="https://play.google.com/store/apps/details?id=com.spin.morano&hl=it">
-    <img src="https://github.com/user-attachments/assets/b085225b-2f92-4518-b3b7-e083c7701723" alt="Download su Google Play"/>
+    <img src="https://github.com/user-attachments/assets/7802319e-95f9-4e89-a70b-c5d92a84eb26" alt="Download su Google Play"/>
   </a>
   
 </div>
@@ -19,7 +19,6 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
 ---
 
 ![app_screen](https://github.com/user-attachments/assets/6ca31d44-5c6a-4610-8143-ad09c2c03c2b)
-
 
 
 
