@@ -18,7 +18,7 @@ Per coinvolgere l'utente, inoltre, integra tre minigiochi: un memory game con im
 
 ---
 
-![presentazione app](https://github.com/user-attachments/assets/c76ca138-920e-41ca-91fd-cfc0cdf5f410)
+![app_screen](https://github.com/user-attachments/assets/6ca31d44-5c6a-4610-8143-ad09c2c03c2b)
 
 
 
